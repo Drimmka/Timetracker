@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Time tracker</string>
+    <string name="work_address">Where do you work?</string>
+    <string name="save_address">Save</string>
+    <string name="address">Office address: </string>
+    <string name="error_address_empty">Address cannot be empty</string>
+    <string name="error_address_too_short">Address too short</string>
+    <string name="error_address_not_found">Address not found, please try again.</string>
+    <string name="validating_address">Validating address...</string>
+    <string name="entered_office">Entered the office</string>
+    <string name="left_office">Left the office</string>
+    <string name="location_permission_denied">Location permission denied, time tracker will not work</string>
+    <string name="monitor_location">Location monitoring is on</string>
+    <string name="monitor_location_off">Location monitoring is off</string>
+    <string name="checkin">In</string>
+    <string name="checkout">Out</string>
+    <string name="total_spent">Spent</string>
+
+</resources>
